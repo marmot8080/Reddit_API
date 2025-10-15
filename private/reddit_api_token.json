@@ -1,0 +1,5 @@
+{
+    "client_id": "your Reddit API ID",
+    "client_secret": "your Reddit API secret key",
+    "user_agent": "your Reddit nickname"
+}
